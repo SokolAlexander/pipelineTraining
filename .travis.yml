@@ -7,7 +7,7 @@ node_js:
 branches:
   only:
     - master
-s
+
 deploy:
   provider: heroku
   app: pipeline-training
