@@ -7,3 +7,9 @@ node_js:
 branches:
   only:
     - master
+s
+deploy:
+  provider: heroku
+  app: "pipeline-training"
+  api_key:
+    secure: "93086d13-0fb6-4658-9a3b-1ed1c5b8a2bf"
