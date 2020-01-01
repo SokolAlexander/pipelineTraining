@@ -1,4 +1,4 @@
-sudo: false
+os: windows
 
 language: node_js
 node_js:
