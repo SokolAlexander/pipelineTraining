@@ -10,6 +10,6 @@ branches:
 s
 deploy:
   provider: heroku
-  app: "pipeline-training"
+  app: pipeline-training
   api_key:
-    secure: "93086d13-0fb6-4658-9a3b-1ed1c5b8a2bf"
+    secure: 93086d13-0fb6-4658-9a3b-1ed1c5b8a2bf
